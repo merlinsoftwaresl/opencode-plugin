@@ -9,6 +9,6 @@
   "exports": {
     ".": "./index.js",
     "./server": "./index.js",
-    "./tui": "./tui.jsx"
+    "./tui": "./tui.js"
   }
 }
